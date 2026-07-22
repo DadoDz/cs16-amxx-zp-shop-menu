@@ -33,5 +33,5 @@ Players can purchase different Packs packages using their Points. Each package c
 | `shop` | Opens the Packs Shop |
 
 ## Notice
->This plugin was created specifically for Zombie Plague X and uses the Points System and Packs System from Zombie Plague X.
+> This plugin was created specifically for Zombie Plague X and uses the Points System and Packs System from Zombie Plague X.
 > The shop can be adapted to work with other Zombie Plague versions or other game mods by modifying the required systems and natives.
